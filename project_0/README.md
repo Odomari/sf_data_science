@@ -11,7 +11,7 @@
 ### Описание проекта
 Угадать загаданное компьютером число за мнимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/skillfactory_rds/blob/master/module_7/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Odomari/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 ### Какой кейс решаем?
 Нужно написать программу, которая угадывает число за минимальное число попыток
@@ -29,4 +29,4 @@
 ### Краткая информация о данных
 ....
 
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/skillfactory_rds/blob/master/module_7/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Odomari/sf_data_science/tree/main/project_0/README.md#Оглавление)
